@@ -14,10 +14,15 @@ Sustainability Impact — Supports smarter recycling and promotes environmental 
 🛠 Tech Stack
 
 Language: Python
+
 ML/DL Frameworks: TensorFlow, Keras, EfficientNetV2B2
+
 Data Handling: NumPy, Pandas
+
 Model Evaluation: Scikit-learn, Matplotlib, Seaborn
+
 Version Control: Git, GitHub
+
 Deployment: Streamlit, Gradio
 
 📌 How It Works

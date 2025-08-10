@@ -27,6 +27,7 @@ Deployment: Streamlit, Gradio
 
 📌 How It Works
 
-Dataset Preparation: Images are preprocessed, augmented, and balanced for optimal model learning.
-Model Training: Fine-tuned EfficientNetV2B2 with transfer learning for accurate classification.
-Prediction: Upload an image → Model predicts the waste category in real-time.
+1. Dataset Preparation: Images are preprocessed, augmented, and balanced for optimal model learning.
+2. Model Training: Fine-tuned EfficientNetV2B2 with transfer learning for accurate classification.
+3. Prediction: Upload an image → Model predicts the waste category in real-time.
+

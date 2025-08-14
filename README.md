@@ -26,3 +26,7 @@ Sustainability Impact — Supports smarter recycling and promotes environmental 
 2. Model Training: Fine-tuned EfficientNetV2B2 with transfer learning for accurate classification.
 3. Prediction: Upload an image → Model predicts the waste category in real-time.
 
+Conclusion
+
+This AI-powered system enables fast, accurate, and real-time waste classification, helping automate segregation and support sustainable recycling. By combining EfficientNetV2B2, transfer learning, and robust preprocessing, it delivers high accuracy across multiple waste categories while being easily deployable via Streamlit and Gradio.
+

@@ -1,5 +1,4 @@
-# AICTE-Internship (In Collaboration with Shell)
-## ♻ AI-Powered Garbage Classification System
+# AICTE-Internship (In Collaboration with Shell -  AI-Powered Garbage Classification System )
 
 ## Goal: Automate waste segregation for safer, faster, and more sustainable recycling.
 
